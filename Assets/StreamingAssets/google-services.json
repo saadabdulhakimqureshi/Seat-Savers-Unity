@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "866852042954",
+    "firebase_url": "https://seat-savers-e9491-default-rtdb.firebaseio.com",
+    "project_id": "seat-savers-e9491",
+    "storage_bucket": "seat-savers-e9491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866852042954:android:f419b869dbd6b2370bdc33",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SeatSavers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866852042954-vtrrqni6je8ikqjhhi5a88eq1jggaoj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLD3GAlQEB462Pk4tuxfURmmfqf75COQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866852042954-vtrrqni6je8ikqjhhi5a88eq1jggaoj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866852042954:android:0cea0a72051b37f50bdc33",
+        "android_client_info": {
+          "package_name": "com.seat.savers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866852042954-vtrrqni6je8ikqjhhi5a88eq1jggaoj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLD3GAlQEB462Pk4tuxfURmmfqf75COQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866852042954-vtrrqni6je8ikqjhhi5a88eq1jggaoj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
