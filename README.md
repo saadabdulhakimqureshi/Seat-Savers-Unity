@@ -1,6 +1,9 @@
 # Seat-Savers-Unity
 Seat-Savers is an easy to use E-Ticket android app which lets you book film tickets accross venues in Karachi such as Nueplex, Capri, Cinepax etc.
 
+### Snap-Shots:
+See Sprint-II documentation to view snapshots of the project.
+
 ### Prerequisites
 Setup: Unity 2D
 
