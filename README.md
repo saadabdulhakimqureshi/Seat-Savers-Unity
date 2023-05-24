@@ -4,6 +4,12 @@ Seat-Savers is an easy to use E-Ticket android app which lets you book film tick
 
 Course: CS 353: Software Engineering
 
+## Implementation
+
+Fronend: Unity 2021.3.18f1 2D Android
+
+Backend: Firebase Firestore
+
 ## Instructions
 
 Below are the pages for the app:
@@ -34,10 +40,8 @@ To run the app extract and install the Seat-Savers.apk file on your android devi
 
 ## Screens
 
-See report to view snapshots of the project.
-
-## Implementation
-
-Fronend: Unity 2021.3.18f1 2D Android
-
-Backend: Firebase Firestore
+![Alt text](/Images/Dashboard)
+![Alt text](/Images/Cinema)
+![Alt text](/Images/DateTime)
+![Alt text](/Images/Seat)
+![Alt text](/Images/Payment)
