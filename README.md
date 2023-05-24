@@ -42,10 +42,10 @@ To run the app extract and install the Seat-Savers.apk file on your android devi
 
 ![Alt text](/Images/Dashboard.PNG)
 
-![Alt text](/Images/Cinema)
+![Alt text](/Images/Cinema.PNG)
 
-![Alt text](/Images/DateTime)
+![Alt text](/Images/DateTime.PNG)
 
-![Alt text](/Images/Seat)
+![Alt text](/Images/Seat.PNG)
 
-![Alt text](/Images/Payment)
+![Alt text](/Images/Payment.PNG)
