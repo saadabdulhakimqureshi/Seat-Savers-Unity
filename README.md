@@ -30,7 +30,7 @@ Show's your current bookings.
 
 ## Run
 
-To run the app install the Seat-Savers.apk file on your android device.
+To run the app extract and install the Seat-Savers.apk file on your android device from Seat-Savers.rar.
 
 ## Screens
 
